@@ -11,7 +11,7 @@ const CONFIG = {
     // { src: "images/spawn.jpg", caption: "Our spawn town" },
     // { src: "images/castle.png", caption: "The big castle build" },
   ],
-  discordInvite: "https://discord.gg/yourinvite", // <-- your Discord invite link
+  discordInvite: "https://discord.gg/rKd2WcQme", // <-- your Discord invite link
   discordServerId: "",                   // optional: Discord server ID (enable Widget in Discord settings) for member count
   apiUrl: "/api/status",                 // served by server.js; change to your hosted URL if the site is hosted elsewhere
   refreshSeconds: 15,
